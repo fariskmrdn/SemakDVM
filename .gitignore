@@ -1,2 +1,4 @@
 
 database/.env
+database/.env_sample
+database/config.php

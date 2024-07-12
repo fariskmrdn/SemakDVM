@@ -86,7 +86,7 @@
 
         <p style="font-size:14px;">Tuan,</p>
 
-        <h4 style="text-align:justify;font-size:0.95rem">TAWARAN KEMASUKAN KE PROGRAM DIPLOMA VOKASIONAL MALAYSIA SESI 2023/2024</h4>
+        <h4 style="text-align:justify;font-size:0.95rem">TAWARAN KEMASUKAN KE PROGRAM DIPLOMA VOKASIONAL MALAYSIA SESI <?php echo $format['title'] ?></h4>
 
         <p style="font-size:14px;">Sukacita dimaklumkan bahawa anda telah ditawarkan mengikuti program berikut :</p>
 
