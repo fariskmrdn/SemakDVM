@@ -11,11 +11,23 @@ if ($today >= $openTime) {
         $ic = mysqli_real_escape_string($con, $_POST['ic']);
         $check = "SELECT * FROM student WHERE nokp LIKE '%$ic%'";
         $run = mysqli_query($con, $check);
-
         if (mysqli_num_rows($run) > 0) {
-            $student = mysqli_fetch_array($run);
+            $row = mysqli_fetch_array($run);
 
-            $checkProgramme = "SELECT * FROM programme WHERE id_program = " . $student['programme'] . "";
+            $sesi_utama = "SELECT * FROM document WHERE id = '1'";
+            $sql = mysqli_query($con, $sesi_utama);
+            $sesi = mysqli_fetch_array($sql);
+
+            if($row['year_s'] != $sesi['title']){
+                $message = "
+            <div class='container mt-2 text-bg-warning text-center p-3'>
+            <strong>
+            Harap Maaf! Sesi Anda Telah Tamat
+            </strong>
+            </div>";
+            }else{
+
+            $checkProgramme = "SELECT * FROM programme WHERE id_program = " . $row['programme'] . "";
             $exec = mysqli_query($con, $checkProgramme);
             $program = mysqli_fetch_array($exec);
 
@@ -27,7 +39,7 @@ if ($today >= $openTime) {
             <table class='table table-striped bg-light'>
                 <tr>
                     <td>Nama Pelajar :</td>
-                    <td>" . $student['full_name'] . "</td>
+                    <td>" . $row['full_name'] . "</td>
                 </tr>
                 <tr>
                     <td>Program Ditawarkan :</td>
@@ -39,14 +51,14 @@ if ($today >= $openTime) {
                 </tr>
                 <tr>
                     <td>Sesi Pengajian :</td>
-                    <td>" . $student['year_s'] . "</td>
+                    <td>" . $row['year_s'] . "</td>
                 </tr>
     
                 <tr style='background-color:white'>
                     <td colspan='2' >
                         <div class='download-button'>
                             <div class='p-1' >
-                                <a href='surat.php?nokp=" . $student['nokp'] . "' class='btn btn-info bg-opacity-50'>Muat Turun Surat Tawaran</a>
+                                <a href='surat.php?nokp=" . $row['nokp'] . "' class='btn btn-info bg-opacity-50'>Muat Turun Surat Tawaran</a>
                             </div>
                             <div class='p-1'>
                                 <a href='./documents/LAMPIRAN 1 SENARAI SEMAK.docx' class='btn btn-info bg-opacity-50' download>Senarai Semak Pendaftaran Pelajar Baharu
@@ -67,7 +79,7 @@ if ($today >= $openTime) {
             </table>
             </div>
             ";
-        } else {
+        } }else {
             $message = "
             <div class='container mt-2 text-bg-warning text-center p-3'>
             <strong>
