@@ -1,11 +1,6 @@
 <?php
 
-
-$SERVER = "localhost";
-$USER = "";
-$PSWD = "";
-$DB = "kvkualas_hep";
-$env = parse_ini_string(file_get_contents(__DIR__.'/.env_sample'));
+$env = parse_ini_string(file_get_contents(__DIR__.'/.env'));
 $SERVER = $env['HOSTNAME'];
 $USER = $env['USERNAME'];
 $PSWD = $env['PASSWORD'];
