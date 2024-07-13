@@ -74,19 +74,29 @@ if ($today >= $openTime) {
                         </div>
                     </td>
                 </tr>
-    
+                <tr>
+                    <td colspan='2'>
+                        <center>
+                        <div class='p-1'> 
+                                <a href='./documents/LAMPIRAN 4 MEMO KOD ETIKA PEMAKAIAN HARI JUMAAT.pdf' class='btn btn-info bg-opacity-50' download>Memo Kod Etika Pemakaian Hari Jumaat</a>
+                        </div>
+                        </center>
+                    </td>
+                </tr>
     
             </table>
             </div>
             ";
-        } }else {
-            $message = "
-            <div class='container mt-2 text-bg-warning text-center p-3'>
-            <strong>
-            Harap Maaf! Anda Tidak Ditawarkan / Tidak Layak Melanjutkan Pengajian Ke Diploma Vokasional Malaysia
-            </strong>
-            </div>";
-        }
+        } 
+    }
+else {
+    $message = "
+    <div class='container mt-2 text-bg-warning text-center p-3'>
+    <strong>
+    Harap Maaf! Anda Tidak Ditawarkan / Tidak Layak Melanjutkan Pengajian Ke Diploma Vokasional Malaysia
+    </strong>
+    </div>";
+}
     }
 } else {
     require_once 'maintenance.html';
