@@ -61,15 +61,11 @@ if ($today >= $openTime) {
                                 <a href='surat.php?nokp=" . $row['nokp'] . "' class='btn btn-info bg-opacity-50'>Muat Turun Surat Tawaran</a>
                             </div>
                             <div class='p-1'>
-                                <a href='./documents/LAMPIRAN 1 SENARAI SEMAK.docx' class='btn btn-info bg-opacity-50' download>Senarai Semak Pendaftaran Pelajar Baharu
+                                <a href='./documents/BUKU TAWARAN KEMASUKAN PELAJAR DVM.pdf' class='btn btn-info bg-opacity-50' download>Buku Tawaran Kemasukan Pelajar
                                 </a>
                             </div>
                             <div class='p-1'>
-                                <a href='./documents/LAMPIRAN 3 BORANG SETUJU TERIMA TAWARAN.pdf' class='btn btn-info bg-opacity-50' download>Borang Penerimaan Tawaran Kemasukan
-                                </a>
-                            </div>
-                            <div class='p-1'>
-                                <a href='./documents/LAMPIRAN 2 PEMERIKSAAN KESIHATAN.docx' class='btn btn-info bg-opacity-50' download>Borang Pemeriksaan Kesihatan</a>
+                                <a href='./documents/BORANG SETUJU TERIMA TAWARAN.pdf' class='btn btn-info bg-opacity-50' download>Borang Penerimaan Tawaran Kemasukan</a>
                             </div>
                         </div>
                     </td>
@@ -78,7 +74,7 @@ if ($today >= $openTime) {
                     <td colspan='2'>
                         <center>
                         <div class='p-1'> 
-                                <a href='./documents/LAMPIRAN 4 MEMO KOD ETIKA PEMAKAIAN HARI JUMAAT.pdf' class='btn btn-info bg-opacity-50' download>Memo Kod Etika Pemakaian Hari Jumaat</a>
+                                <a href='./documents/MEMO KOD ETIKA PEMAKAIAN.pdf' class='btn btn-info bg-opacity-50' download>Memo Kod Etika Pemakaian</a>
                         </div>
                         </center>
                     </td>
