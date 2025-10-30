@@ -65,11 +65,37 @@
         </table>
         <hr>
 
-        <p style="margin-left:480px; font-size:14px;">Ruj. Kami : KVKS.700-2/1/4( )</p>
-                            <?php
-                        setlocale(LC_TIME, 'ms_MY');
-                    ?>
-        <p style="margin-left:480px; margin-top:-10px; font-size:14px;">Tarikh : <?php echo strftime("%e %B %Y", strtotime($format['date_issued'])); ?></p>
+        <p style="margin-left:480px; font-size:14px;">Ruj. Kami : KVKS.700-2/1/4(<?php echo $info['id']?>)</p>
+        <?php
+            /**
+             * Function to format a date string into Malay (e.g., "29 Oktober 2025")
+             * This method is reliable as it uses PHP's Intl extension, not server-dependent locales.
+             */
+            function formatMalayDate($dateString) {
+                // 1. Set the correct timezone
+                date_default_timezone_set('Asia/Kuala_Lumpur');
+
+                // 2. Format the date using PHP's standard date function: "Day MonthName Year"
+                // 'j F Y' outputs: 11 July 2025
+                $english_date = date("j F Y", strtotime($dateString));
+
+                // 3. Define the English to Malay month mapping
+                $english_months = array(
+                    'January', 'February', 'March', 'April', 'May', 'June', 
+                    'July', 'August', 'September', 'October', 'November', 'December'
+                );
+                $malay_months = array(
+                    'Januari', 'Februari', 'Mac', 'April', 'Mei', 'Jun', 
+                    'Julai', 'Ogos', 'September', 'Oktober', 'November', 'Disember'
+                );
+
+                // 4. Replace the English month name with the Malay equivalent
+                $malay_date = str_replace($english_months, $malay_months, $english_date);
+                
+                return $malay_date;
+            }
+        ?>
+        <p style="margin-left:480px; margin-top:-10px; font-size:14px;">Tarikh : <?php echo formatMalayDate($format['date_issued']); ?></p>
 
         <table style="font-size:14px;">
             <tr>

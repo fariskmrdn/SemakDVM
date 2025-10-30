@@ -5,6 +5,7 @@ require 'vendor/autoload.php';
 
 include 'database/config.php';
 if (isset($_REQUEST['nokp'])) {
+
     $id = mysqli_real_escape_string($con, $_REQUEST['nokp']);
 
     $retrieveData = "SELECT * FROM student WHERE nokp = ?";
@@ -13,6 +14,19 @@ if (isset($_REQUEST['nokp'])) {
     mysqli_stmt_execute($stmt);
     $result = mysqli_stmt_get_result($stmt);
     $info = mysqli_fetch_array($result);
+
+    $retrieveOffer = "SELECT * FROM offer WHERE id_student = '$id'";
+
+    $execRetreiveOffer = mysqli_query($con, $retrieveOffer);
+    
+    // Check if offer exists, but don't redirect if it doesn't
+    if (mysqli_num_rows($execRetreiveOffer) > 0) {
+        $offer = mysqli_fetch_array($execRetreiveOffer);
+    } else {
+        $offer = null; // or handle as needed
+        header("Location: ./");
+    }
+
 
     $getProgramme = mysqli_query($con, "SELECT * FROM programme WHERE id_program = ".$info['programme']."");
     $programme = mysqli_fetch_array($getProgramme);
@@ -27,11 +41,12 @@ use Dompdf\Dompdf;
 
 ob_start();
 $dompdf = new Dompdf([
-    "chroot" => __DIR__
+    "chroot" => __DIR__,
 ]);
 
 // html template
-require("template/template-surat.php");
+require("template/template-tawaran.php");
+
 
 $dompdf->loadHtml(ob_get_clean());
 
@@ -49,3 +64,4 @@ $dompdf->render();
 
 // Make it downloadable
 $dompdf->stream("SURAT TAWARAN PENGAJIAN DIPLOMA VOKASIONAL MALAYSIA.pdf", ["Attachment" => false]);
+
