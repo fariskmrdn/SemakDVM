@@ -104,7 +104,7 @@ if ($today >= $today) {
                 $sql = mysqli_query($con, $sesi_utama);
                 $sesi = mysqli_fetch_array($sql);
     
-                if($row['year_s'] == $sesi['title']){
+                if($row['year_s'] != $sesi['title']){
                     $message = "
                 <div class='container mt-2 text-bg-warning text-center p-3'>
                 <strong>
