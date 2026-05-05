@@ -217,9 +217,8 @@
         <p style="font-size:14px;text-align:justify;">2. &nbsp; &nbsp; &nbsp; 	Anda dikehendaki melapor diri di institusi berkenaan pada tarikh dan masa yang       ditetapkan. Semasa melapor diri, anda dikehendaki menyerahkan dokumen-dokumen berikut:. <br>
 
         <br>&nbsp; &nbsp; &nbsp; a) Salinan Kad Pengenalan
-        <br>&nbsp; &nbsp; &nbsp; b) Borang Permohonan Program Diploma
-        <br>&nbsp; &nbsp; &nbsp; c) Borang Setuju Terima/ Tolak Tawaran
-        <br>&nbsp; &nbsp; &nbsp; d) Borang Akuan Kesihatan <br>
+        <br>&nbsp; &nbsp; &nbsp; b) Salinan Keputusan Sijil Pelajaran Malaysia (SPM) Tahun 2025*
+        <br>&nbsp; &nbsp; &nbsp; c) Buku Tawaran Kemasukan Pelajar ke Kolej Vokasional. <br>
 
         </p>
 

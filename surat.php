@@ -31,7 +31,11 @@ $dompdf = new Dompdf([
 ]);
 
 // html template
-require("template/template-surat.php");
+if (isset($info['spm_leaver']) && $info['spm_leaver'] == 1) {
+    require("template/template-surat-spm.php");
+} else {
+    require("template/template-surat.php");
+}
 
 $dompdf->loadHtml(ob_get_clean());
 
