@@ -4,6 +4,7 @@ strftime('%B', time());
 require 'vendor/autoload.php';
 
 include 'database/config.php';
+mysqli_set_charset($con, "utf8mb4");
 if (isset($_REQUEST['nokp'])) {
     $id = mysqli_real_escape_string($con, $_REQUEST['nokp']);
 
