@@ -141,7 +141,7 @@
                     <td><b><?php echo strtoupper($programme['period']); ?></b></td>
                 </tr>
                 <tr>
-                    <td><b>TARIKH MELAPOR DIRI</b></td>
+                    <td>TARIKH MELAPOR DIRI</td>
                     <td>:</td>
                     <?php
                         setlocale(LC_TIME, 'ms_MY');
