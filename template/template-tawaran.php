@@ -105,7 +105,7 @@
             }
         
         ?>
-        Merujuk kepada surat tuan <span class="field">KVKS.700-2/1/4(<?php echo $info['id']?>)</span> mengenai perkara tersebut di atas, adalah dimaklumkan, saya
+        Merujuk kepada surat tuan <span class="field">KPM.800-1/1/12 ( <?php echo $info['nokp']?> )</span> mengenai perkara tersebut di atas, adalah dimaklumkan, saya
         <span class="field"><?php echo $info['full_name']; ?></span>,
         No. Kad Pengenalan: <span class="field"><?php echo $info['nokp']; ?></span>
         dengan ini bersetuju <b><?php echo $statusOffer?></b> di atas tarawan tersebut dan mematuhi syarat-syarat yang telah ditetapkan.
