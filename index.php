@@ -1,6 +1,6 @@
 <?php
-
 include 'database/config.php';
+mysqli_set_charset($con, "utf8mb4");
 $message = "";
 
 date_default_timezone_set("Asia/Kuala_Lumpur");
@@ -182,7 +182,7 @@ if ($today >= $today) {
                                 </center>
                                 <center style='display:flex; flex-wrap: wrap; justify-content: center;'>
                                     <div class='p-1'>
-                                        <a href='tawaran.php?nokp=" . $row['nokp'] . "' class='btn btn-info bg-opacity-50' target='_blank'>Buku Tawaran Kemasukan Pelajar
+                                        <a href='tawaran.php?nokp=" . $row['nokp'] . "' class='btn btn-info bg-opacity-50' target='_blank'>Borang Setuju Terima Tawaran
                                         </a>
                                     </div>
 

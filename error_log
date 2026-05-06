@@ -889,3 +889,955 @@ Stack trace:
 #1 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home2/kvkualas...')
 #2 {main}
   thrown in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 8
+[13-Jul-2024 15:45:52 UTC] PHP Warning:  file_get_contents(/home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/.env): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 3
+[13-Jul-2024 15:45:52 UTC] PHP Warning:  Undefined array key "HOSTNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 4
+[13-Jul-2024 15:45:52 UTC] PHP Warning:  Undefined array key "USERNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 5
+[13-Jul-2024 15:45:52 UTC] PHP Warning:  Undefined array key "PASSWORD" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 6
+[13-Jul-2024 15:45:52 UTC] PHP Warning:  Undefined array key "DBNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 7
+[13-Jul-2024 15:45:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home2/kvkualas...')
+#2 {main}
+  thrown in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[13-Jul-2024 15:45:53 UTC] PHP Warning:  file_get_contents(/home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/.env): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 3
+[13-Jul-2024 15:45:53 UTC] PHP Warning:  Undefined array key "HOSTNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 4
+[13-Jul-2024 15:45:53 UTC] PHP Warning:  Undefined array key "USERNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 5
+[13-Jul-2024 15:45:53 UTC] PHP Warning:  Undefined array key "PASSWORD" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 6
+[13-Jul-2024 15:45:53 UTC] PHP Warning:  Undefined array key "DBNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 7
+[13-Jul-2024 15:45:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home2/kvkualas...')
+#2 {main}
+  thrown in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[13-Jul-2024 15:46:20 UTC] PHP Warning:  file_get_contents(/home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/.env): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 3
+[13-Jul-2024 15:46:20 UTC] PHP Warning:  Undefined array key "HOSTNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 4
+[13-Jul-2024 15:46:20 UTC] PHP Warning:  Undefined array key "USERNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 5
+[13-Jul-2024 15:46:20 UTC] PHP Warning:  Undefined array key "PASSWORD" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 6
+[13-Jul-2024 15:46:20 UTC] PHP Warning:  Undefined array key "DBNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 7
+[13-Jul-2024 15:46:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home2/kvkualas...')
+#2 {main}
+  thrown in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[13-Jul-2024 15:46:23 UTC] PHP Warning:  file_get_contents(/home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/.env): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 3
+[13-Jul-2024 15:46:23 UTC] PHP Warning:  Undefined array key "HOSTNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 4
+[13-Jul-2024 15:46:23 UTC] PHP Warning:  Undefined array key "USERNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 5
+[13-Jul-2024 15:46:23 UTC] PHP Warning:  Undefined array key "PASSWORD" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 6
+[13-Jul-2024 15:46:23 UTC] PHP Warning:  Undefined array key "DBNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 7
+[13-Jul-2024 15:46:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home2/kvkualas...')
+#2 {main}
+  thrown in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[13-Jul-2024 15:46:24 UTC] PHP Warning:  file_get_contents(/home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/.env): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 3
+[13-Jul-2024 15:46:24 UTC] PHP Warning:  Undefined array key "HOSTNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 4
+[13-Jul-2024 15:46:24 UTC] PHP Warning:  Undefined array key "USERNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 5
+[13-Jul-2024 15:46:24 UTC] PHP Warning:  Undefined array key "PASSWORD" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 6
+[13-Jul-2024 15:46:24 UTC] PHP Warning:  Undefined array key "DBNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 7
+[13-Jul-2024 15:46:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home2/kvkualas...')
+#2 {main}
+  thrown in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[13-Jul-2024 15:46:38 UTC] PHP Warning:  file_get_contents(/home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/.env): Failed to open stream: No such file or directory in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 3
+[13-Jul-2024 15:46:38 UTC] PHP Warning:  Undefined array key "HOSTNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 4
+[13-Jul-2024 15:46:38 UTC] PHP Warning:  Undefined array key "USERNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 5
+[13-Jul-2024 15:46:38 UTC] PHP Warning:  Undefined array key "PASSWORD" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 6
+[13-Jul-2024 15:46:38 UTC] PHP Warning:  Undefined array key "DBNAME" in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 7
+[13-Jul-2024 15:46:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home2/kvkualas...')
+#2 {main}
+  thrown in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[13-Jul-2024 15:46:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home2/kvkualas...')
+#2 {main}
+  thrown in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[13-Jul-2024 15:46:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home2/kvkualas...')
+#2 {main}
+  thrown in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[11-Oct-2024 13:18:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home2/kvkualas...')
+#2 {main}
+  thrown in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Undefined variable $info in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 24
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 24
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 72
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 72
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Undefined variable $info in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 78
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 78
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Undefined variable $info in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 83
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 83
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 89
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 89
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Undefined variable $programme in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 113
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 113
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Undefined variable $info in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 117
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 117
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Undefined variable $programme in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 177
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 177
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 185
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 185
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 190
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 190
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 197
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 197
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 198
+[14-Jul-2025 03:36:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 198
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Undefined variable $info in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 24
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 24
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 72
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 72
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Undefined variable $info in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 78
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 78
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Undefined variable $info in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 83
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 83
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 89
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 89
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Undefined variable $programme in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 113
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 113
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Undefined variable $info in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 117
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 117
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Undefined variable $programme in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 177
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 177
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 185
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 185
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 190
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 190
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 197
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 197
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 198
+[16-Jul-2025 03:57:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 198
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Undefined variable $info in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 24
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 24
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 72
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 72
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Undefined variable $info in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 78
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 78
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Undefined variable $info in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 83
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 83
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 89
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 89
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Undefined variable $programme in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 113
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 113
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Undefined variable $info in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 117
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 117
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Undefined variable $programme in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 177
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 177
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 185
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 185
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 190
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 190
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 197
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 197
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Undefined variable $format in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 198
+[21-Jul-2025 07:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template.php on line 198
+[14-Aug-2025 11:19:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 11:19:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 11:19:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 11:19:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 11:19:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 11:19:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 11:19:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 11:19:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 11:20:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 11:51:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 11:51:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 17:35:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 17:35:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 18:30:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[14-Aug-2025 20:03:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 00:04:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 00:37:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 02:27:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 02:29:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 02:31:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 02:31:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 03:54:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 07:53:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 07:53:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 07:53:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 07:55:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 07:56:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 07:56:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[15-Aug-2025 09:13:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 03:27:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 03:27:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 03:27:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 03:27:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 10:14:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 10:52:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 13:27:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 13:27:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 13:27:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 13:27:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 13:27:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 13:28:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 13:28:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 13:28:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 15:58:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[16-Aug-2025 20:18:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[17-Aug-2025 01:12:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[17-Aug-2025 01:12:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[17-Aug-2025 02:10:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[17-Aug-2025 02:19:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[17-Aug-2025 05:14:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[17-Aug-2025 08:46:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[17-Aug-2025 12:06:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[17-Aug-2025 12:12:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[17-Aug-2025 16:20:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[17-Aug-2025 17:24:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[17-Aug-2025 23:25:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[17-Aug-2025 23:25:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[17-Aug-2025 23:25:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[18-Aug-2025 02:03:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[18-Aug-2025 03:38:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[18-Aug-2025 06:27:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[18-Aug-2025 09:42:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[18-Aug-2025 09:56:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[18-Aug-2025 10:38:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[18-Aug-2025 10:38:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[18-Aug-2025 10:38:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[18-Aug-2025 10:38:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[18-Aug-2025 11:56:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[18-Aug-2025 12:52:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[18-Aug-2025 14:54:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 02:00:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 02:55:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 02:55:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 02:55:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 02:55:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 04:23:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 04:23:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 04:23:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 04:24:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 04:24:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 07:30:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 07:30:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 08:22:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 08:22:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 08:22:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 08:22:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 08:25:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 08:25:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 10:15:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 11:28:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 11:29:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 11:29:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 12:03:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 13:08:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 13:08:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 13:14:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 13:14:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 15:15:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[19-Aug-2025 19:08:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[20-Aug-2025 03:03:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[20-Aug-2025 06:27:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[20-Aug-2025 09:46:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[20-Aug-2025 10:31:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[20-Aug-2025 10:31:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[20-Aug-2025 10:31:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[20-Aug-2025 10:31:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[20-Aug-2025 12:28:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[20-Aug-2025 13:14:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[20-Aug-2025 18:05:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[20-Aug-2025 18:33:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[21-Aug-2025 00:46:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[21-Aug-2025 00:46:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[21-Aug-2025 00:46:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[21-Aug-2025 00:46:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[21-Aug-2025 03:26:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[21-Aug-2025 03:26:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[21-Aug-2025 04:33:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[21-Aug-2025 04:33:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[21-Aug-2025 04:34:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[21-Aug-2025 07:04:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'kvkualas_hep' in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[13-Jan-2026 17:23:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[13-Jan-2026 17:23:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[13-Jan-2026 17:23:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php:9
+Stack trace:
+#0 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php(9): mysqli_connect()
+#1 /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/index.php(3): include('/home12/kvkuala...')
+#2 {main}
+  thrown in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/database/config.php on line 9
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Undefined variable $offer in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 100
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 100
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 108
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 108
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 109
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 109
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 110
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 110
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Undefined variable $programme in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 121
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 121
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Undefined variable $format in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 125
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 125
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 138
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 138
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 142
+[07-Feb-2026 12:55:34 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 142
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Undefined variable $offer in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 100
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 100
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 108
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 108
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 109
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 109
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 110
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 110
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Undefined variable $programme in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 121
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 121
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Undefined variable $format in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 125
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 125
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 138
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 138
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 142
+[09-Feb-2026 01:42:48 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-tawaran.php on line 142
+[09-Feb-2026 01:42:55 UTC] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 24
+[09-Feb-2026 01:42:55 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 24
+[09-Feb-2026 01:42:55 UTC] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 68
+[09-Feb-2026 01:42:55 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 68
+[09-Feb-2026 01:42:55 UTC] PHP Warning:  Undefined variable $format in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 98
+[09-Feb-2026 01:42:55 UTC] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 98
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 104
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 104
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 109
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 109
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $format in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 115
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 115
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $programme in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 139
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 139
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $info in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 143
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 143
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $programme in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 203
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 203
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $format in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 211
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 211
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $format in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 216
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 216
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $format in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 223
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 223
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Undefined variable $format in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 224
+[09-Feb-2026 09:42:55 Asia/Kuala_Lumpur] PHP Warning:  Trying to access array offset on null in /home12/kvkualas/public_html/semakdvm.kvkualaselangor.com/template/template-surat.php on line 224
